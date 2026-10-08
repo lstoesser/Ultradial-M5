@@ -1,0 +1,77 @@
+[
+  {
+    "source": "C:\\Users\\lstoesser_deeplocal\\Documents\\Arduino\\ultradial_m5\\libraries\\GLIICAN\\examples\\Diagnostics\\Diagnostics.ino",
+    "staged": "C:\\Users\\lstoesser_deeplocal\\Documents\\Arduino\\ultradial_m5\\.named-api-refactor\\workspace\\GLIICAN\\examples\\Diagnostics\\Diagnostics.ino",
+    "sha256": "7b439ad45f1397698df087d9cc6e703340fab048cb6bd66cef12c217c01fd570"
+  },
+  {
+    "source": "C:\\Users\\lstoesser_deeplocal\\Documents\\Arduino\\ultradial_m5\\libraries\\GLIICAN\\examples\\SetTorque\\SetTorque.ino",
+    "staged": "C:\\Users\\lstoesser_deeplocal\\Documents\\Arduino\\ultradial_m5\\.named-api-refactor\\workspace\\GLIICAN\\examples\\SetTorque\\SetTorque.ino",
+    "sha256": "a1673fc05c5fe1a0ce31c81b9ab8123c1fda124c948f9481c9f776458e8e48e7"
+  },
+  {
+    "source": "C:\\Users\\lstoesser_deeplocal\\Documents\\Arduino\\ultradial_m5\\libraries\\GLIICAN\\examples\\SetVelocity\\SetVelocity.ino",
+    "staged": "C:\\Users\\lstoesser_deeplocal\\Documents\\Arduino\\ultradial_m5\\.named-api-refactor\\workspace\\GLIICAN\\examples\\SetVelocity\\SetVelocity.ino",
+    "sha256": "a911044d94c874160b2c0138e8c2639e54c514d4c59865d85b45eb6d632f1076"
+  },
+  {
+    "source": "C:\\Users\\lstoesser_deeplocal\\Documents\\Arduino\\ultradial_m5\\libraries\\GLIICAN\\examples\\SineVelocity\\SineVelocity.ino",
+    "staged": "C:\\Users\\lstoesser_deeplocal\\Documents\\Arduino\\ultradial_m5\\.named-api-refactor\\workspace\\GLIICAN\\examples\\SineVelocity\\SineVelocity.ino",
+    "sha256": "119920ce7bb761d27614f0003359b515b4e09159f92ad6dd5bc9d15216b764fb"
+  },
+  {
+    "source": "C:\\Users\\lstoesser_deeplocal\\Documents\\Arduino\\ultradial_m5\\libraries\\GLIICAN\\src\\gl-ii-CAN.cpp",
+    "staged": "C:\\Users\\lstoesser_deeplocal\\Documents\\Arduino\\ultradial_m5\\.named-api-refactor\\workspace\\GLIICAN\\src\\gl-ii-CAN.cpp",
+    "sha256": "38560dfc3e8c8d3b5ab7c98f495921da4ac622c67d461df2c1952791c1c0ded0"
+  },
+  {
+    "source": "C:\\Users\\lstoesser_deeplocal\\Documents\\Arduino\\ultradial_m5\\libraries\\GLIICAN\\src\\gl-ii-CAN.h",
+    "staged": "C:\\Users\\lstoesser_deeplocal\\Documents\\Arduino\\ultradial_m5\\.named-api-refactor\\workspace\\GLIICAN\\src\\gl-ii-CAN.h",
+    "sha256": "c935caf5756f6bfd06579b246cd88d7a5250bbaa4b2b3a2e55fc3eb2dc090857"
+  },
+  {
+    "source": "C:\\Users\\lstoesser_deeplocal\\Documents\\Arduino\\libraries\\GLIICAN\\examples\\Diagnostics\\Diagnostics.ino",
+    "staged": "C:\\Users\\lstoesser_deeplocal\\Documents\\Arduino\\ultradial_m5\\.named-api-refactor\\installed\\GLIICAN\\examples\\Diagnostics\\Diagnostics.ino",
+    "sha256": "ac93ea728802466c2999307a1417a4391eea7743b9d5da3771a3e7805af650bb"
+  },
+  {
+    "source": "C:\\Users\\lstoesser_deeplocal\\Documents\\Arduino\\libraries\\GLIICAN\\examples\\SetTorque\\SetTorque.ino",
+    "staged": "C:\\Users\\lstoesser_deeplocal\\Documents\\Arduino\\ultradial_m5\\.named-api-refactor\\installed\\GLIICAN\\examples\\SetTorque\\SetTorque.ino",
+    "sha256": "a1673fc05c5fe1a0ce31c81b9ab8123c1fda124c948f9481c9f776458e8e48e7"
+  },
+  {
+    "source": "C:\\Users\\lstoesser_deeplocal\\Documents\\Arduino\\libraries\\GLIICAN\\examples\\SetVelocity\\SetVelocity.ino",
+    "staged": "C:\\Users\\lstoesser_deeplocal\\Documents\\Arduino\\ultradial_m5\\.named-api-refactor\\installed\\GLIICAN\\examples\\SetVelocity\\SetVelocity.ino",
+    "sha256": "a911044d94c874160b2c0138e8c2639e54c514d4c59865d85b45eb6d632f1076"
+  },
+  {
+    "source": "C:\\Users\\lstoesser_deeplocal\\Documents\\Arduino\\libraries\\GLIICAN\\examples\\SineVelocity\\SineVelocity.ino",
+    "staged": "C:\\Users\\lstoesser_deeplocal\\Documents\\Arduino\\ultradial_m5\\.named-api-refactor\\installed\\GLIICAN\\examples\\SineVelocity\\SineVelocity.ino",
+    "sha256": "b5381673734f9b3c5450394ea898ea983ca753f90ba793d172aa8bc1cd5845a3"
+  },
+  {
+    "source": "C:\\Users\\lstoesser_deeplocal\\Documents\\Arduino\\libraries\\GLIICAN\\src\\gl-ii-CAN.cpp",
+    "staged": "C:\\Users\\lstoesser_deeplocal\\Documents\\Arduino\\ultradial_m5\\.named-api-refactor\\installed\\GLIICAN\\src\\gl-ii-CAN.cpp",
+    "sha256": "0b8e93ef4d52f548d0e66cba753127132fda0a3ad5e8651d54e963c538a8e80e"
+  },
+  {
+    "source": "C:\\Users\\lstoesser_deeplocal\\Documents\\Arduino\\libraries\\GLIICAN\\src\\gl-ii-CAN.h",
+    "staged": "C:\\Users\\lstoesser_deeplocal\\Documents\\Arduino\\ultradial_m5\\.named-api-refactor\\installed\\GLIICAN\\src\\gl-ii-CAN.h",
+    "sha256": "1efc90f3449526296cc306526fab7c4864ea8651bbd3617ea089111b6a715c9c"
+  },
+  {
+    "source": "C:\\Users\\lstoesser_deeplocal\\Documents\\Arduino\\GL40_TWAI_diagnostics\\gl-ii-CAN.cpp",
+    "staged": "C:\\Users\\lstoesser_deeplocal\\Documents\\Arduino\\ultradial_m5\\.named-api-refactor\\diagnostic\\GL40_TWAI_diagnostics\\gl-ii-CAN.cpp",
+    "sha256": "09b4122c7da6ea6f4ed7d43e2a892b66c887140eaf4998bebbde526e97485591"
+  },
+  {
+    "source": "C:\\Users\\lstoesser_deeplocal\\Documents\\Arduino\\GL40_TWAI_diagnostics\\gl-ii-CAN.h",
+    "staged": "C:\\Users\\lstoesser_deeplocal\\Documents\\Arduino\\ultradial_m5\\.named-api-refactor\\diagnostic\\GL40_TWAI_diagnostics\\gl-ii-CAN.h",
+    "sha256": "68c5decf6cfb7e549ee5c1ac08ca8424d057938205b7c333520dae29bab1a3b2"
+  },
+  {
+    "source": "C:\\Users\\lstoesser_deeplocal\\Documents\\Arduino\\GL40_TWAI_diagnostics\\GL40_TWAI_diagnostics.ino",
+    "staged": "C:\\Users\\lstoesser_deeplocal\\Documents\\Arduino\\ultradial_m5\\.named-api-refactor\\diagnostic\\GL40_TWAI_diagnostics\\GL40_TWAI_diagnostics.ino",
+    "sha256": "c1d4b668684eb16b5e425839a60acddcec0acb46756fdef3d000a8f841bda904"
+  }
+]
